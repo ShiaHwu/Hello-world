@@ -1,5 +1,5 @@
 # Hello-world
-A tutorial to the github world
+A tutorial to the github.
 
 
 
